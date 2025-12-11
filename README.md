@@ -1,4 +1,4 @@
-# AI Chatbot with Code Execution & Web Search - https://23f1000318.github.io/LLM_Agent/
+# AI Chatbot with Code Execution & Web Search (https://23f1000318.github.io/LLM_Agent/)
 
 A JavaScript-based chatbot interface implementing secure code execution, web search capabilities, and advanced markdown rendering with comprehensive error handling and multi-provider LLM integration.
 
